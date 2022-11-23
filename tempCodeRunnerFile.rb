@@ -1,0 +1,1 @@
+p sell_index = arr.index(sell_value)
